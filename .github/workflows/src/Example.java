@@ -1,6 +1,6 @@
 public class Example {
     public static void main(String[] args) {
-        int unusedVariable = 0; // Unused variable
+        int anotherUnusedVariable = 5; 
         System.out.println("Hello World!");
         if (true) {
             // Empty block
